@@ -1,0 +1,11 @@
+Binaries
+DerivedDataChache
+Intermediate
+Saved
+*.VC.db
+*.opensdf
+*.opendb
+*.sln
+*.suo
+*.xcodeproj
+*.xcwordspace
